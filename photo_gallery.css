@@ -1,0 +1,89 @@
+body{
+
+	font-family:Arial, sans-serif;
+	text-align:cenetr;
+	margin:50px;
+	background-color: darkcyan;
+	
+
+}
+
+
+#Philippines {
+
+text-align: center;
+background-color:lightcyan;
+padding: 20px;
+font-style:Italic;
+border-color: darkcyan;
+
+}
+
+#bohol {
+
+text-align:center;
+background-color: lightcyan;
+padding:20px;
+width: 30%;
+font-style: italic;
+border-color: darkcyan;
+margin-left:auto ;
+
+}
+#rice {
+
+text-align:center;
+background-color: lightcyan;
+padding:20px;
+width: 30%;
+font-style: italic;
+border-color: darkcyan;
+margin-left:auto ;
+
+}
+
+#Boracay {
+
+text-align: center;
+background-color: lightcyan;
+padding:20px;
+width: 30%;
+font-style: italic;
+border-color: darkcyan;
+margin-left:auto ;
+
+}
+
+#sources{
+
+	text-align: center;
+background-color: lightcyan;
+padding:20px;
+width: 30%;
+font-style: italic;
+border-color: darkcyan;
+margin-left:auto ;
+
+
+
+}
+
+#Rating{
+
+text-align: center;
+background-color:lightcyan;
+padding: 20px;
+font-style:Italic;
+border-color: darkcyan;
+	
+}
+
+
+
+
+div{
+
+margin-top: 20px;
+margin-bottom: 20px;
+margin-right: auto;	
+}

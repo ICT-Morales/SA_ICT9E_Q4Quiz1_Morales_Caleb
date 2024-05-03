@@ -1,0 +1,16 @@
+body{
+  background-color: lightgoldenrodyellow;
+  t
+  text-align: center;
+}
+
+table, th, td{
+  border-color: peach;
+  color:olive;
+}
+
+p{
+  color: olive;
+  text-align: center;
+  text-decoration: underline;
+}
